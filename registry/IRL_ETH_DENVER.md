@@ -1,7 +1,7 @@
-<h2 align="center">Align IRL Eth Denver meet badge </h2>
-<br />
+<h2 align="center">IRL Eth Denver Meet Up </h2><br />
 
-This Badge signifies the recipient met the Align team at ETH denver.
+<h4>Creator: Align Network</h4>
+This Badge signifies the recipient met the  team at ETH denver.
 <br/><br />
 
 Psudeocode:
