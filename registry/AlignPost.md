@@ -1,7 +1,7 @@
 <h2 align="center">Align Post </h2><br />
 
 <h4>Creator/Attestor: Align Network</h4>
-This Attestation signifies a generic statement post on Align. It allows users or bots to make a statement regarding any topic and provide proof to back up their claims. The generic statement must follow the rules and disputes must be handled according to the resolution section. Most attestations will default to this attestation type, and a dispute corollary could be drawn to X(formerly twitter) [Community Notes].(https://communitynotes.x.com/guide/en/about/introduction). 
+This Attestation signifies a generic statement post on Align. It allows users or bots to make a statement regarding any topic and provide proof to back up their claims. The generic statement must follow the rules and disputes must be handled according to the resolution section. Most attestations will default to this attestation type, and a dispute corollary could be drawn to X(formerly twitter) [Community Notes](https://communitynotes.x.com/guide/en/about/introduction). 
 <br/><br />
 
 Psudeocode:
